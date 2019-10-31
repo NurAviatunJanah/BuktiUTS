@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HijabStore</string>
+    <string name="hijab_name">Nama Hijab</string>
+    <string name="detail">Detail</string>
+    <string name="About">About</string>
+    <string name="harga">Harga</string>
+</resources>
